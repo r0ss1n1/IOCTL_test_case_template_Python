@@ -5,6 +5,8 @@ import os
 
 # Foraged together
 # Charles Thomas Wallace Truscott or @r0ss1n1 publishing at github.com/r0ss1n1
+# satanicritualabuse.wordpress.com 
+# r0ss1n1.com
 
 MEM_COMMIT = 0x00001000
 MEM_RESERVE = 0x00002000
